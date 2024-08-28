@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Firebase shit
-src/config/firebase.tsx
+src/config/firebase.ts
